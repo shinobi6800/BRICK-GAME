@@ -1,0 +1,16 @@
+{
+  "name": "2d-breakout-game",
+  "version": "1.0.0",
+  "description": "2D breakout Game creation..",
+  "main": "app.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [
+    "2D",
+    "breakout",
+    "Game"
+  ],
+  "author": "Miranda Nigel",
+  "license": "ISC"
+}
