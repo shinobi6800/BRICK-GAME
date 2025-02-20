@@ -1,4 +1,4 @@
-// Get the canvas element and its context
+// Defining variables :)
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
 const body = document.querySelector("body");
